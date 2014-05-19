@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ExamenLogin</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="iniciar_sesion">Inicie sesión</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="ingreseUser">Ingrese Usuario</string>
+    <string name="ingresePass">Increse su comtraseña</string>
+    <string name="Registrarse">Registrarse</string>
+    <string name="Bienvenido">Bienvenido</string>
+    <string name="Nombre">Ingrese su nombre</string>
+    <string name="email">Ingrese su email</string>
+    <string name="registrar">Registrar</string>
+    <string name="gracias">Gracias por crear su cuenta sus datos son: </string>
+    <string name="title_activity_main__bienvenido">Main_Bienvenido</string>
+    <string name="title_activity_main__registro">Main_Registro</string>
+    <string name="title_activity_main__reporte_registro">Main_ReporteRegistro</string>
+
+</resources>
